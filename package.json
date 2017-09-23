@@ -1,0 +1,23 @@
+{
+  "name": "jsonserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "json-server": "^0.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "server": "cd server && json-server db.json -w -p 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cxyr2987667308/JsonServerLearn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cxyr2987667308/JsonServerLearn/issues"
+  },
+  "homepage": "https://github.com/cxyr2987667308/JsonServerLearn#readme"
+}
